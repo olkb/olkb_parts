@@ -1,6 +1,6 @@
 # Planck
-Public files concerning physical aspects of the Planck keyboard
+Modified Planck milled bottom suited bluetooth hardware
 
-* BOTPLK50-MSH: The entire milled bottom for the Planck
-* BOTPLK50-MSH-SEG: The 6-piece, segmented version of BOTPLK50-MSH
-* MIDPLK50-XX: The middle piece designed to work with a bottom plate of height XXmm.
+* PLK50 - BT: The entire milled bottom for the Planck
+* PLK50 - BT - SEGL: The left side of the 2-piece, segmented version of PLK50 - BT
+* PLK50 - BT - SEGR: The right side of the 2-piece, segmented version of PLK50 - BT
