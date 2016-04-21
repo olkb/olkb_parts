@@ -1,3 +1,4 @@
 [submodule "qmk_firmware"]
 	path = qmk_firmware
 	url = https://github.com/jackhumbert/qmk_firmware
+	branch = master
