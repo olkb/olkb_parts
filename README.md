@@ -1,6 +1,5 @@
-# Planck
-Public files concerning physical aspects of the Planck keyboard
+# OLKB Design References
 
-* BOTPLK50-MSH: The entire milled bottom for the Planck
-* BOTPLK50-MSH-SEG: The 6-piece, segmented version of BOTPLK50-MSH
-* MIDPLK50-XX: The middle piece designed to work with a bottom plate of height XXmm.
+The files here are older OLKB designs (retired or otherwise not being produced).
+
+These works are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
